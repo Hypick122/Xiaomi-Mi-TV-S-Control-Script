@@ -5,3 +5,4 @@ system/
 adb.exe
 AdbWinApi.dll
 AdbWinUsbApi.dll
+test.cmd
